@@ -1,2 +1,10 @@
-# terminal-chess
-Terminal Chess is a Python-based, 2-player chess game that runs directly in the terminal. This game allows two players to take turns making moves in a classic chess match, following standard chess rules.
+# Terminal Chess Game 🎮♟️
+
+A simple Python-based chess game for two players in the terminal.
+
+## 📥 Installation (Ubuntu/Linux)
+
+1. Open a terminal and run:
+   ```bash
+   git clone https://github.com/Astro-Amaan/terminal-chess.git
+   cd terminal-chess
