@@ -25,15 +25,19 @@ Follow these steps to install and play:
 git clone https://github.com/Astro-Amaan/terminal-chess.git
 cd terminal-chess
 ```
-# Step 2: Run the Installer
+# Step 2: Make it executable
+```bash
+chmod +x install.sh
+```
+# Step 3: Run the Installer
 ```bash
 ./install.sh
 ```
-# Step 3: Refresh Your Terminal
+# Step 4: Refresh Your Terminal
 ```bash
 source ~/.bashrc
 ```
-# Step 4: Play the Game!
+# Step 5: Play the Game!
 ```bash
 terminal-chess
 ```
