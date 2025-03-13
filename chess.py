@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Simple Chess Game Without Any Library
 # Only Supports Basic Moves - No Castling, No En Passant, No Checkmate Detection
 
